@@ -1,0 +1,12 @@
+@media screen and (min-width:200px) and (max-width:767px){
+    /* .right{
+        display: none;
+    } */
+
+    .right ul {
+        width: 80%;
+        height: 100vh;
+        flex-direction: column;
+        background-color: skyblue;
+    }
+}
